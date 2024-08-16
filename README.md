@@ -32,7 +32,7 @@ Before running the application, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Bansipatel083/stock-prediction-web-python.git
-   cd stock-prediction-web-app
+   cd stock-prediction-web-python
 
 2. **Create a virtual environment (recommended):**
 
